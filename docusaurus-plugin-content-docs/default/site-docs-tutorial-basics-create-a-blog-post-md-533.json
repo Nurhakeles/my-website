@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/create-a-blog-post",
+  "id": "tutorial-basics/create-a-blog-post",
+  "title": "Hasta Sağlık Bilgileri Düzenleme",
+  "description": "1. Muayene Özeti Ekleme",
+  "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/create-a-blog-post",
+  "permalink": "/docs/tutorial-basics/create-a-blog-post",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hasta Yönetimi",
+    "permalink": "/docs/tutorial-basics/create-a-document"
+  },
+  "next": {
+    "title": "Muhasebe Yönetimi",
+    "permalink": "/docs/tutorial-basics/markdown-features"
+  }
+}

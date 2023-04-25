@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/deploy-your-site",
+  "id": "tutorial-basics/deploy-your-site",
+  "title": "Klinik Ön Muhasebe Yönetimi",
+  "description": "1. Gider Ekleme",
+  "source": "@site/docs/tutorial-basics/deploy-your-site.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/deploy-your-site",
+  "permalink": "/docs/tutorial-basics/deploy-your-site",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Muhasebe Yönetimi",
+    "permalink": "/docs/tutorial-basics/markdown-features"
+  },
+  "next": {
+    "title": "Klinik Ayarları",
+    "permalink": "/docs/tutorial-basics/congratulations"
+  }
+}

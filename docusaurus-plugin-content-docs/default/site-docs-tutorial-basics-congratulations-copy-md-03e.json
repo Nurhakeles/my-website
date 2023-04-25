@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/congratulations copy",
+  "id": "tutorial-basics/congratulations copy",
+  "title": "Klinik Ayarları",
+  "description": "1. Yeni Kullanıcı Ekleme",
+  "source": "@site/docs/tutorial-basics/congratulations copy.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/congratulations copy",
+  "permalink": "/docs/tutorial-basics/congratulations copy",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Klinik Ön Muhasebe Yönetimi",
+    "permalink": "/docs/tutorial-basics/deploy-your-site"
+  },
+  "next": {
+    "title": "Klinik Ayarları",
+    "permalink": "/docs/tutorial-basics/congratulations"
+  }
+}

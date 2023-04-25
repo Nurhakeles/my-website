@@ -1,0 +1,16 @@
+{
+  "title": "modül kullanımları",
+  "description": "Yaklaşık 40 dk. okuma",
+  "slug": "/category/modül-kullanımları",
+  "permalink": "/docs/category/modül-kullanımları",
+  "navigation": {
+    "previous": {
+      "title": "Hızlı Bakış",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "Hesabınızı Yönetme",
+      "permalink": "/docs/tutorial-basics/create-a-page"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "tutorial-basics/Verileri Yönetme",
+  "id": "tutorial-basics/Verileri Yönetme",
+  "title": "Verileri Yönetme",
+  "description": "1. Verileri İndirme",
+  "source": "@site/docs/tutorial-basics/Verileri Yönetme.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/Verileri Yönetme",
+  "permalink": "/docs/tutorial-basics/Verileri Yönetme",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Randevu Ayarlarını Yönetme",
+    "permalink": "/docs/tutorial-basics/Randevu Ayarlarını Yönetme"
+  }
+}

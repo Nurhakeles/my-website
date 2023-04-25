@@ -1,0 +1,181 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Hızlı Bakış",
+        "href": "/docs/intro",
+        "docId": "intro"
+      },
+      {
+        "type": "category",
+        "label": "Modül Kullanımları",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Hesabınızı Yönetme",
+            "href": "/docs/tutorial-basics/create-a-page",
+            "docId": "tutorial-basics/create-a-page"
+          },
+          {
+            "type": "link",
+            "label": "Hasta Yönetimi",
+            "href": "/docs/tutorial-basics/create-a-document",
+            "docId": "tutorial-basics/create-a-document"
+          },
+          {
+            "type": "link",
+            "label": "Hasta Sağlık Bilgileri Düzenleme",
+            "href": "/docs/tutorial-basics/create-a-blog-post",
+            "docId": "tutorial-basics/create-a-blog-post"
+          },
+          {
+            "type": "link",
+            "label": "Muhasebe Yönetimi",
+            "href": "/docs/tutorial-basics/markdown-features",
+            "docId": "tutorial-basics/markdown-features"
+          },
+          {
+            "type": "link",
+            "label": "Klinik Ön Muhasebe Yönetimi",
+            "href": "/docs/tutorial-basics/deploy-your-site",
+            "docId": "tutorial-basics/deploy-your-site"
+          },
+          {
+            "type": "link",
+            "label": "Klinik Ayarları",
+            "href": "/docs/tutorial-basics/congratulations",
+            "docId": "tutorial-basics/congratulations"
+          },
+          {
+            "type": "link",
+            "label": "Finansal Ayarları Yönetme",
+            "href": "/docs/tutorial-basics/Finansal Ayarları Yönetme",
+            "docId": "tutorial-basics/Finansal Ayarları Yönetme"
+          },
+          {
+            "type": "link",
+            "label": "Gönderilen Hazır Mesajları Yönetme",
+            "href": "/docs/tutorial-basics/Gönderilen Hazır Mesajları Yönetme",
+            "docId": "tutorial-basics/Gönderilen Hazır Mesajları Yönetme"
+          },
+          {
+            "type": "link",
+            "label": "Klinik Bilgilerini Yönetme",
+            "href": "/docs/tutorial-basics/Klinik Bilgilerini Yönetme",
+            "docId": "tutorial-basics/Klinik Bilgilerini Yönetme"
+          },
+          {
+            "type": "link",
+            "label": "Operasyonel Araçlar",
+            "href": "/docs/tutorial-basics/Operasyonel Araçlar",
+            "docId": "tutorial-basics/Operasyonel Araçlar"
+          },
+          {
+            "type": "link",
+            "label": "Randevu Ayarlarını Yönetme",
+            "href": "/docs/tutorial-basics/Randevu Ayarlarını Yönetme",
+            "docId": "tutorial-basics/Randevu Ayarlarını Yönetme"
+          },
+          {
+            "type": "link",
+            "label": "Verileri Yönetme",
+            "href": "/docs/tutorial-basics/Verileri Yönetme",
+            "docId": "tutorial-basics/Verileri Yönetme"
+          }
+        ],
+        "href": "/docs/category/modül-kullanımları"
+      }
+    ]
+  },
+  "docs": {
+    "intro": {
+      "id": "intro",
+      "title": "Hızlı Bakış",
+      "description": "Klinik 365'i anlamak için hızlıca göz atalım.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/congratulations": {
+      "id": "tutorial-basics/congratulations",
+      "title": "Klinik Ayarları",
+      "description": "1. Yeni Kullanıcı Ekleme",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/create-a-blog-post": {
+      "id": "tutorial-basics/create-a-blog-post",
+      "title": "Hasta Sağlık Bilgileri Düzenleme",
+      "description": "1. Muayene Özeti Ekleme",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/create-a-document": {
+      "id": "tutorial-basics/create-a-document",
+      "title": "Hasta Yönetimi",
+      "description": "1. Hasta Arama",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/create-a-page": {
+      "id": "tutorial-basics/create-a-page",
+      "title": "Hesabınızı Yönetme",
+      "description": "1. Kişisel Bilgilerinizi Hesabınıza Ekleme",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/deploy-your-site": {
+      "id": "tutorial-basics/deploy-your-site",
+      "title": "Klinik Ön Muhasebe Yönetimi",
+      "description": "1. Gider Ekleme",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/Finansal Ayarları Yönetme": {
+      "id": "tutorial-basics/Finansal Ayarları Yönetme",
+      "title": "Finansal Ayarları Yönetme",
+      "description": "1. İşlem Grubu Ekleme",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/Gönderilen Hazır Mesajları Yönetme": {
+      "id": "tutorial-basics/Gönderilen Hazır Mesajları Yönetme",
+      "title": "Gönderilen Hazır Mesajları Yönetme",
+      "description": "1. Hazır Mesajları Yönetme",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/Klinik Bilgilerini Yönetme": {
+      "id": "tutorial-basics/Klinik Bilgilerini Yönetme",
+      "title": "Klinik Bilgilerini Yönetme",
+      "description": "1. Klinik İletişim Bilgilerini Yönetme",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/markdown-features": {
+      "id": "tutorial-basics/markdown-features",
+      "title": "Muhasebe Yönetimi",
+      "description": "1. Hasta İşlem Ücreti Ekleme",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/Operasyonel Araçlar": {
+      "id": "tutorial-basics/Operasyonel Araçlar",
+      "title": "Operasyonel Araçlar",
+      "description": "1. Kurum Ekleme",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/Randevu Ayarlarını Yönetme": {
+      "id": "tutorial-basics/Randevu Ayarlarını Yönetme",
+      "title": "Randevu Ayarlarını Yönetme",
+      "description": "1. Doktorun Çalışma Saatlerini Düzenleme",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/Verileri Yönetme": {
+      "id": "tutorial-basics/Verileri Yönetme",
+      "title": "Verileri Yönetme",
+      "description": "1. Verileri İndirme",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

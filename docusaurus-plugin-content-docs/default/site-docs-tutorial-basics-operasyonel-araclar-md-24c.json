@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorial-basics/Operasyonel Araçlar",
+  "id": "tutorial-basics/Operasyonel Araçlar",
+  "title": "Operasyonel Araçlar",
+  "description": "1. Kurum Ekleme",
+  "source": "@site/docs/tutorial-basics/Operasyonel Araçlar.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/Operasyonel Araçlar",
+  "permalink": "/docs/tutorial-basics/Operasyonel Araçlar",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Klinik Bilgilerini Yönetme",
+    "permalink": "/docs/tutorial-basics/Klinik Bilgilerini Yönetme"
+  },
+  "next": {
+    "title": "Randevu Ayarlarını Yönetme",
+    "permalink": "/docs/tutorial-basics/Randevu Ayarlarını Yönetme"
+  }
+}

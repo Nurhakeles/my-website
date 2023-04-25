@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorial-basics/Gönderilen Hazır Mesajları Yönetme",
+  "id": "tutorial-basics/Gönderilen Hazır Mesajları Yönetme",
+  "title": "Gönderilen Hazır Mesajları Yönetme",
+  "description": "1. Hazır Mesajları Yönetme",
+  "source": "@site/docs/tutorial-basics/Gönderilen Hazır Mesajları Yönetme.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/Gönderilen Hazır Mesajları Yönetme",
+  "permalink": "/docs/tutorial-basics/Gönderilen Hazır Mesajları Yönetme",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Finansal Ayarları Yönetme",
+    "permalink": "/docs/tutorial-basics/Finansal Ayarları Yönetme"
+  },
+  "next": {
+    "title": "Klinik Bilgilerini Yönetme",
+    "permalink": "/docs/tutorial-basics/Klinik Bilgilerini Yönetme"
+  }
+}

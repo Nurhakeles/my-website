@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorial-basics/Finansal Ayarları Yönetme",
+  "id": "tutorial-basics/Finansal Ayarları Yönetme",
+  "title": "Finansal Ayarları Yönetme",
+  "description": "1. İşlem Grubu Ekleme",
+  "source": "@site/docs/tutorial-basics/Finansal Ayarları Yönetme.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/Finansal Ayarları Yönetme",
+  "permalink": "/docs/tutorial-basics/Finansal Ayarları Yönetme",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Klinik Ayarları",
+    "permalink": "/docs/tutorial-basics/congratulations"
+  },
+  "next": {
+    "title": "Gönderilen Hazır Mesajları Yönetme",
+    "permalink": "/docs/tutorial-basics/Gönderilen Hazır Mesajları Yönetme"
+  }
+}

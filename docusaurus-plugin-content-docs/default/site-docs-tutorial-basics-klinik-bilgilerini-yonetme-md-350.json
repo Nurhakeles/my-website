@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorial-basics/Klinik Bilgilerini Yönetme",
+  "id": "tutorial-basics/Klinik Bilgilerini Yönetme",
+  "title": "Klinik Bilgilerini Yönetme",
+  "description": "1. Klinik İletişim Bilgilerini Yönetme",
+  "source": "@site/docs/tutorial-basics/Klinik Bilgilerini Yönetme.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/Klinik Bilgilerini Yönetme",
+  "permalink": "/docs/tutorial-basics/Klinik Bilgilerini Yönetme",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Gönderilen Hazır Mesajları Yönetme",
+    "permalink": "/docs/tutorial-basics/Gönderilen Hazır Mesajları Yönetme"
+  },
+  "next": {
+    "title": "Operasyonel Araçlar",
+    "permalink": "/docs/tutorial-basics/Operasyonel Araçlar"
+  }
+}

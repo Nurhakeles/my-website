@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tutorial-basics/Randevu Ayarlarını Yönetme",
+  "id": "tutorial-basics/Randevu Ayarlarını Yönetme",
+  "title": "Randevu Ayarlarını Yönetme",
+  "description": "1. Doktorun Çalışma Saatlerini Düzenleme",
+  "source": "@site/docs/tutorial-basics/Randevu Ayarlarını Yönetme.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/Randevu Ayarlarını Yönetme",
+  "permalink": "/docs/tutorial-basics/Randevu Ayarlarını Yönetme",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Operasyonel Araçlar",
+    "permalink": "/docs/tutorial-basics/Operasyonel Araçlar"
+  },
+  "next": {
+    "title": "Verileri Yönetme",
+    "permalink": "/docs/tutorial-basics/Verileri Yönetme"
+  }
+}
